@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\Example4.csproj",
-      "projectName": "Example4",
-      "projectPath": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\Example4.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\Example5\\Example5.csproj",
+      "projectName": "Example5",
+      "projectPath": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\Example5\\Example5.csproj",
       "packagesPath": "C:\\Users\\HomeStone\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\obj\\",
+      "outputPath": "D:\\GeekBrains\\LangEduc\\C#\\Example4\\Example5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HomeStone\\AppData\\Roaming\\NuGet\\NuGet.Config"
