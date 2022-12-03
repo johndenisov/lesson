@@ -1,0 +1,5 @@
+D:\GeekBrains\LangEduc\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\GeekBrains\LangEduc\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\LangEduc\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\GeekBrains\LangEduc\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\GeekBrains\LangEduc\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
