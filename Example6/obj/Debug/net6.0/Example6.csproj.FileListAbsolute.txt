@@ -1,0 +1,15 @@
+D:\GeekBrains\LangEduc\C#\Example6\bin\Debug\net6.0\Example6.exe
+D:\GeekBrains\LangEduc\C#\Example6\bin\Debug\net6.0\Example6.deps.json
+D:\GeekBrains\LangEduc\C#\Example6\bin\Debug\net6.0\Example6.runtimeconfig.json
+D:\GeekBrains\LangEduc\C#\Example6\bin\Debug\net6.0\Example6.dll
+D:\GeekBrains\LangEduc\C#\Example6\bin\Debug\net6.0\Example6.pdb
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.csproj.AssemblyReference.cache
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.AssemblyInfoInputs.cache
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.AssemblyInfo.cs
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.csproj.CoreCompileInputs.cache
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.dll
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\refint\Example6.dll
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.pdb
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\Example6.genruntimeconfig.cache
+D:\GeekBrains\LangEduc\C#\Example6\obj\Debug\net6.0\ref\Example6.dll
