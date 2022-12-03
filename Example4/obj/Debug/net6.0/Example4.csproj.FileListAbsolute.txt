@@ -1,0 +1,15 @@
+D:\GeekBrains\LangEduc\C#\Example4\bin\Debug\net6.0\Example4.exe
+D:\GeekBrains\LangEduc\C#\Example4\bin\Debug\net6.0\Example4.deps.json
+D:\GeekBrains\LangEduc\C#\Example4\bin\Debug\net6.0\Example4.runtimeconfig.json
+D:\GeekBrains\LangEduc\C#\Example4\bin\Debug\net6.0\Example4.dll
+D:\GeekBrains\LangEduc\C#\Example4\bin\Debug\net6.0\Example4.pdb
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.csproj.AssemblyReference.cache
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.AssemblyInfoInputs.cache
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.AssemblyInfo.cs
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.csproj.CoreCompileInputs.cache
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.dll
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\refint\Example4.dll
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.pdb
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\Example4.genruntimeconfig.cache
+D:\GeekBrains\LangEduc\C#\Example4\obj\Debug\net6.0\ref\Example4.dll
