@@ -6,24 +6,17 @@
 //a = 2 b = 10 -> max = 10
 //a = -9 b = -3 -> max = -3
 
-int a = 5;
-int b = 7;
+Console.WriteLine("Введите первое число: ");
+int numberA = Convert.ToInt32(Console.ReadLine());
 
-int max = a;
-int min = a;
+Console.WriteLine("Введите второе число: ");
+int numberB = Convert.ToInt32(Console.ReadLine());
 
-if (a > max) max = a;
-if (b > max) max = b;
-
-if (a == min) min = a;
-if (b == min) min = b;
-
-Console.Write("max = ");
-Console.WriteLine(max);
-
-Console.Write("min = ");
-Console.WriteLine(min);
-
-
-
-
+if (numberA > numberB)
+{       
+ Console.WriteLine("Первое число " +  numberA +  " больше, чем второе " + numberB);
+}
+else
+{
+Console.WriteLine("Второе число " + numberB + " больше, чем первое " + numberA);
+}
