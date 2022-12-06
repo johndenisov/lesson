@@ -16,10 +16,9 @@ if (number_2 > max)
 {
     max = number_2;
 }
-
 if (number_3 > max)
 {
     max = number_3;
 }
 
-Console.WriteLine("Наибольшее из введённых чисел -> " + max);
+Console.WriteLine("Наибольшее число: " + max);
