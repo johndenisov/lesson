@@ -3,15 +3,19 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-Console.WriteLine("Введите число ");
-
+Console.WriteLine("Введите число:");
 int number = Convert.ToInt32(Console.ReadLine());
 
-if (number %  2 == 1)
+int i = 1;
+
+Console.WriteLine("Чётные числа от 1 до " + number);
+while (i <= number)
 {
-    Console.WriteLine("Число " + number + " : нечетное");
+    if (i % 2 != 1)
+        {
+        Console.Write(i + ", ");
+        }
+    i++;
 }
-else
-{
-    Console.WriteLine("Число " + number + " : четное");
-}
+
+
