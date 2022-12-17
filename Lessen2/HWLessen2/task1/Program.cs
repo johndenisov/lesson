@@ -6,9 +6,9 @@
 
 Console.WriteLine("Введи трёхзначное число: ");
 
-int threeDigitNumber = Convert.ToInt32(Console.ReadLine());
+int ThreeDigitNumber = Convert.ToInt32(Console.ReadLine());
 
-string Number = Convert.ToString(threeDigitNumber);
+string Number = Convert.ToString(ThreeDigitNumber);
 
 if (Number.Length > 2)
     {
