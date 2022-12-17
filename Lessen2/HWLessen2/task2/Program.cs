@@ -12,7 +12,7 @@ string Number = Convert.ToString(AnyNumber);
 
 if (Number.Length > 2)
 {
-    Console.WriteLine("Третья цифра это числа: "  + Number[2]);
+    Console.WriteLine("Третья цифра этого числа: "  + Number[2]);
 }
 else
 {
